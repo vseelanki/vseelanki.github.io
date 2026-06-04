@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher at <a href='https://cicoes.uw.edu/'target='_blank'>CICOES, University of Washington/ href='https://www.ecofoci.noaa.gov/'target='_blank'>EcoFOCI, NOAA PMEL</a>. Seattle, WA.
 subtitle: >
   Postdoctoral Researcher at 
   <a href='https://cicoes.uw.edu/' target='_blank'>CICOES, University of Washington</a> / 
