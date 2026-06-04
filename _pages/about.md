@@ -40,6 +40,7 @@ My research combines numerical modeling, observations, satellite data, and machi
 * Regional Ocean Modeling (MOM6)
 * Physical–Biogeochemical Modeling
 * Sea Ice–Ocean Interactions
+* Marine Ecosystem
 * Bering Sea Climate Variability
 * Indian Ocean 
 * Tropical Cyclone–Ocean Interaction
