@@ -15,22 +15,22 @@ cv:
     Education:
       - institution: Indian Institute of Technology Delhi (IIT Delhi)
         location: New Delhi, India
-        studyType: PhD in Oceanography
+        area: PhD in Oceanography
         start_date: 2017
         end_date: 2022
         highlights:
           - "Thesis: Biophysical variability in the north Indian Ocean using a coupled physical biogeochemical model."
           - "Advisor: Prof. Vimlesh Pant"
-
+          
       - institution: Andhra University
         location: Vizag, India
-        studyType: M. Tech in Oceanic Science
+        area: M. Tech in Oceanic Science
         start_date: 2013
         end_date: 2015
 
       - institution: JNTU Kakinada.
         location: AP, India
-        studyType: B. Tech EEE
+        area: B. Tech EEE
         start_date: 2008
         end_date: 2012
 
@@ -38,8 +38,8 @@ cv:
       - company: University of Washington / NOAA PMEL
         position: Postdoctoral Researcher
         location: Seattle, USA
-        start_date: 2023.04
-        end_date: Present
+        start_date: "2023.04"
+        end_date: "Present"
         highlights:
           - Cooperative Institute for Climate, Ocean, & Ecosystem Studies (CICOES).
           - Ecosystem & Fisheries-Oceanography Coordinated Investigations (EcoFOCI).
@@ -48,8 +48,8 @@ cv:
       - company: Indian Institute of Technology Delhi (IIT Delhi)
         position: Early Career Fellow
         location: New Delhi, India
-        start_date: 2022.12
-        end_date: 2023.03
+        start_date: "2022.12"
+        end_date: "2023.03"
         highlights:
           - "Advisor: Prof. Vimlesh Pant."
           
