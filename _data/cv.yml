@@ -31,7 +31,6 @@ cv:
       - institution: JNTU Kakinada.
         location: AP, India
         studyType: B. Tech EEE
-        location: AP, India
         start_date: 2008
         end_date: 2012
 
@@ -52,9 +51,9 @@ cv:
         start_date: 2022.12
         end_date: 2023.03
         highlights:
-          Advisor: Prof. Vimlesh Pant.
+          - Advisor: Prof. Vimlesh Pant.
   
-       - company: Indian Institute of Science (IISc)
+      - company: Indian Institute of Science (IISc)
         position: Junior Research Fellow (JRF)
         location: Bangalore, India
         start_date: 2015
@@ -80,15 +79,15 @@ cv:
       - title: Inspire Fellowship 
         authors:
           - "Dept. of Science & Technology (DST)"
-        date: 2024
+        date: 2016
         awarder: Dept. of Science & Technology (DST)
         summary: Awarded for pursuing doctoral research.
 
       - title: Firstt Rank in M. Tech 
-        authors:
-          - "Andhra University"
-        date: 2024
-        awarder: Andhra University)
+        awarder: Andhra University
+        date: 2015
+        awarder: Andhra University
+        summary: Awarded First Rank in M. Tech, Andhra University.
         
 
 
