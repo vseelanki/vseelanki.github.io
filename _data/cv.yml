@@ -1,28 +1,47 @@
-- title: Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Researcher
-      institution: University of Washington / NOAA PMEL, Seattle, WA, USA
-      year: 2023.04 - Present
-      description: >
-        CICOES, University of Washington & EcoFOCI, NOAA PMEL.
+cv:
+  name: Vivek Seelanki
+  label: Postdoctoral Researcher
+  email: seelankivivek@gmail.com
+  image: ""
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Oceanography
-      institution: Indian Institute of Technology (IIT) Delhi, New Delhi, India
-      year: 2017 - 2022
-      description: >
-        Thesis: "Biophysical variability in the north Indian Ocean 
-        using a coupled physical biogeochemical model". <br>
-        Advisor: Prof. Vimlesh Pant. <br>
-        Funded by DST INSPIRE fellowship.
-    - title: M. Tech in Oceanic Science
-      institution: Andhra University, Vizag, India
-      year: 2015
-      description:
-    - title: B. Tech in EEE
-      institution: JNTU Kakinada, AP, India
-      year: 2012
-      description:
+  address:
+    street: 7600 Sand Point Way NE
+    city: Seattle
+    region: Washington
+    postalCode: WA 98115
+    countryCode: US
+
+  sections:
+    Education:
+      - institution: Indian Institute of Technology Delhi (IIT Delhi), New Delhi, India
+        studyType: PhD Oceanography
+        start_date: 2017
+        end_date: 2022
+        description: >
+          Thesis: "Biophysical variability in the north Indian Ocean using a coupled
+          physical biogeochemical model". <br>
+          Advisor: Prof. Vimlesh Pant. <br>
+          Funded by DST INSPIRE fellowship.
+
+      - institution: Andhra University, Vizag, India
+        studyType: M. Tech Oceanic Science
+        start_date: 2013
+        end_date: 2015
+
+      - institution: JNTU Kakinada, AP, India
+        studyType: B. Tech EEE
+        start_date: 2008
+        end_date: 2012
+
+    Experience:
+      - company: University of Washington / NOAA PMEL, Seattle, WA, USA
+        position: Postdoctoral Researcher
+        start_date: 2023.04
+        end_date: Present
+        description: >
+          CICOES, University of Washington & EcoFOCI, NOAA PMEL.
+
+      - company: Indian Institute of Technology Delhi (IIT Delhi), New Delhi, India
+        position: Early Career Fellow
+        start_date: 2022.12
+        end_date: 2023.03
