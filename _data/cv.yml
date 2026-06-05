@@ -13,35 +13,84 @@ cv:
 
   sections:
     Education:
-      - institution: Indian Institute of Technology Delhi (IIT Delhi), New Delhi, India
-        studyType: PhD Oceanography
+      - institution: Indian Institute of Technology Delhi (IIT Delhi)
+        studyType: PhD in Oceanography
+        location: New Delhi, India
         start_date: 2017
         end_date: 2022
-        description: >
-          Thesis: "Biophysical variability in the north Indian Ocean using a coupled
-          physical biogeochemical model". <br>
-          Advisor: Prof. Vimlesh Pant. <br>
-          Funded by DST INSPIRE fellowship.
+        highlights:
+          Thesis: "Biophysical variability in the north Indian Ocean using a coupled physical biogeochemical model".
+          Advisor: Prof. Vimlesh Pant.
 
-      - institution: Andhra University, Vizag, India
-        studyType: M. Tech Oceanic Science
+      - institution: Andhra University
+        studyType: M. Tech in Oceanic Science
+        location: Vizag, India
         start_date: 2013
         end_date: 2015
 
-      - institution: JNTU Kakinada, AP, India
+      - institution: JNTU Kakinada.
         studyType: B. Tech EEE
+        location: AP, India
         start_date: 2008
         end_date: 2012
 
     Experience:
-      - company: University of Washington / NOAA PMEL, Seattle, WA, USA
+      - company: University of Washington / NOAA PMEL
         position: Postdoctoral Researcher
+        location: Seattle, USA
         start_date: 2023.04
         end_date: Present
-        description: >
-          CICOES, University of Washington & EcoFOCI, NOAA PMEL.
+        highlights:
+          Cooperative Institute for Climate, Ocean, & Ecosystem Studies (CICOES).
+          Ecosystem & Fisheries-Oceanography Coordinated Investigations (EcoFOCI).
+          Advisors: Dr. Albert J. Hermann; Dr. Wei Cheng; Dr. Phyllis Stabeno. 
 
-      - company: Indian Institute of Technology Delhi (IIT Delhi), New Delhi, India
+      - company: Indian Institute of Technology Delhi (IIT Delhi)
         position: Early Career Fellow
+        location: New Delhi, India
         start_date: 2022.12
         end_date: 2023.03
+        highlights:
+          Advisor: Prof. Vimlesh Pant.
+  
+       - company: Indian Institute of Science (IISc)
+        position: Junior Research Fellow (JRF)
+        location: Bangalore, India
+        start_date: 2015
+        end_date: 2017
+        highlights:
+          Advisor: Prof. P. N. Vinayachandran.
+
+    Awards:
+      - title: Best Ph.D Thesis (Prof. M. P. Singh)
+        authors:
+          - "Indian Institute of Technology Delhi (IIT Delhi)"
+        date: 2023
+        awarder: Indian Institute of Technology Delhi (IIT Delhi)
+        summary: Awarded at IIT Delhi 54th Convocation.
+
+      - title: Distinction in Doctoral Research 
+        authors:
+          - "Indian Institute of Technology Delhi (IIT Delhi)"
+        date: 2024
+        awarder: Indian Institute of Technology Delhi (IIT Delhi)
+        summary: Awarded to 10% of the graduates for the year 2023-2024.
+
+      - title: Inspire Fellowship 
+        authors:
+          - "Dept. of Science & Technology (DST)"
+        date: 2024
+        awarder: Dept. of Science & Technology (DST)
+        summary: Awarded for pursuing doctoral research.
+
+      - title: Firstt Rank in M. Tech 
+        authors:
+          - "Andhra University"
+        date: 2024
+        awarder: Andhra University)
+        
+
+
+
+
+        
