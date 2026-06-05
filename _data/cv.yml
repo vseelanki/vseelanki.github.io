@@ -14,8 +14,8 @@ cv:
   sections:
     Education:
       - institution: Indian Institute of Technology Delhi (IIT Delhi)
-        studyType: PhD in Oceanography
         location: New Delhi, India
+        studyType: PhD in Oceanography
         start_date: 2017
         end_date: 2022
         highlights:
@@ -23,12 +23,13 @@ cv:
           Advisor: Prof. Vimlesh Pant.
 
       - institution: Andhra University
-        studyType: M. Tech in Oceanic Science
         location: Vizag, India
+        studyType: M. Tech in Oceanic Science
         start_date: 2013
         end_date: 2015
 
       - institution: JNTU Kakinada.
+        location: AP, India
         studyType: B. Tech EEE
         location: AP, India
         start_date: 2008
