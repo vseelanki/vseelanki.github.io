@@ -19,8 +19,8 @@ cv:
         start_date: 2017
         end_date: 2022
         highlights:
-          - Thesis: Biophysical variability in the north Indian Ocean using a coupled physical biogeochemical model.
-          - Advisor: Prof. Vimlesh Pant.
+          - "Thesis: Biophysical variability in the north Indian Ocean using a coupled physical biogeochemical model."
+          - "Advisor: Prof. Vimlesh Pant"
 
       - institution: Andhra University
         location: Vizag, India
@@ -43,7 +43,7 @@ cv:
         highlights:
           - Cooperative Institute for Climate, Ocean, & Ecosystem Studies (CICOES).
           - Ecosystem & Fisheries-Oceanography Coordinated Investigations (EcoFOCI).
-          - Advisors: Dr. Albert J. Hermann; Dr. Wei Cheng; Dr. Phyllis Stabeno. 
+          - "Advisors: Dr. Albert J. Hermann; Dr. Wei Cheng; Dr. Phyllis Stabeno." 
 
       - company: Indian Institute of Technology Delhi (IIT Delhi)
         position: Early Career Fellow
@@ -51,7 +51,7 @@ cv:
         start_date: 2022.12
         end_date: 2023.03
         highlights:
-          - Advisor: Prof. Vimlesh Pant.
+          - "Advisor: Prof. Vimlesh Pant."
           
       - company: Indian Institute of Science (IISc)
         position: Junior Research Fellow (JRF)
@@ -59,7 +59,7 @@ cv:
         start_date: 2015
         end_date: 2017
         highlights:
-          - Advisor: Prof. P. N. Vinayachandran.
+          - "Advisor: Prof. P. N. Vinayachandran."
 
     Awards:
       - title: Best Ph.D Thesis (Prof. M. P. Singh)
