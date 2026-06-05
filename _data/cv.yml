@@ -13,23 +13,23 @@ cv:
 
   sections:
     Education:
-      - institution: Indan Institute of Technology Delhi (IIT Delhi), New Delhi, India
+      - institution: Indian Institute of Technology Delhi (IIT Delhi), New Delhi, India
         studyType: PhD Oceanography
         start_date: 2017
         end_date: 2022
         description: >
-        Thesis: "Biophysical variability in the north Indian Ocean using a coupled physical biogeochemical model". <br>
-        Advisors: Prof. Vimlesh Pant.
+          Thesis: "Biophysical variability in the north Indian Ocean using a coupled physical biogeochemical model". <br>
+          Advisors: Prof. Vimlesh Pant.
         
       - institution: Andhra University, Vizag, India
         studyType: M. Tech Oceanic Science
         start_date: 2013
         end_date: 2015
 
-     - institution: JNTU Kakinada, AP, India
-       studyType: B. Tech EEE
-       start_date: 2008
-       end_date: 2012
+      - institution: JNTU Kakinada, AP, India
+        studyType: B. Tech EEE
+        start_date: 2008
+        end_date: 2012
      
 
     Experience:
