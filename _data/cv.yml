@@ -15,7 +15,7 @@ cv:
     Education:
       - institution: Indian Institute of Technology Delhi (IIT Delhi)
         location: New Delhi, India
-        area: PhD in Oceanography
+        studyType: PhD in Oceanography
         start_date: 2017
         end_date: 2022
         highlights:
@@ -24,13 +24,13 @@ cv:
           
       - institution: Andhra University
         location: Vizag, India
-        area: M. Tech in Oceanic Science
+        studyType: M. Tech in Oceanic Science
         start_date: 2013
         end_date: 2015
 
       - institution: JNTU Kakinada.
         location: AP, India
-        area: B. Tech EEE
+        studyType: B. Tech EEE
         start_date: 2008
         end_date: 2012
 
