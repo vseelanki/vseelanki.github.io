@@ -11,10 +11,20 @@ toc:
   sidebar: left
 ---
 <style>
-  /* Completely hide the stray white and black list dots */
-  .post ul, .post li, li::marker, .table-responsive li::marker {
+  /* Target the list containers and item bullets across the entire CV layout */
+  .post ul, 
+  .post li, 
+  .cv-list,
+  .table-responsive ul, 
+  .table-responsive li,
+  li::marker,
+  .table-responsive li::marker {
     list-style: none !important;
     list-style-type: none !important;
-    content: none !important;
+  }
+  
+  /* Hide standard list bullet markers specifically */
+  li {
+    list-style-image: none !important;
   }
 </style>
