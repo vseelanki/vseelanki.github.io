@@ -10,17 +10,4 @@ nav_order: 5
 toc:
   sidebar: left
 ---
-<style>
-  /* This targets and completely removes those floating bullet markers */
-  .post ul, 
-  .post li, 
-  .cv-list,
-  .table-responsive ul, 
-  .table-responsive li,
-  li::marker,
-  .table-responsive li::marker,
-  ul {
-    list-style: none !important;
-    list-style-type: none !important;
-  }
-</style>
+
