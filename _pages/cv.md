@@ -11,20 +11,16 @@ toc:
   sidebar: left
 ---
 <style>
-  /* Target the list containers and item bullets across the entire CV layout */
+  /* This targets and completely removes those floating bullet markers */
   .post ul, 
   .post li, 
   .cv-list,
   .table-responsive ul, 
   .table-responsive li,
   li::marker,
-  .table-responsive li::marker {
+  .table-responsive li::marker,
+  ul {
     list-style: none !important;
     list-style-type: none !important;
-  }
-  
-  /* Hide standard list bullet markers specifically */
-  li {
-    list-style-image: none !important;
   }
 </style>
