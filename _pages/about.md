@@ -50,47 +50,48 @@ biogeochemistry**, **in-situ observations**, **satellite data**, and **machine l
 
 ### Research Interests
 
-  🌊 **Regional Ocean Modeling**: high-resolution MOM6 configurations
-  🌿 **Physical–Biogeochemical Modeling**: coupled MOM6-SIS2–COBALTv3
-  🧊 **Sea Ice–Ocean Interactions**: Bering Sea shelf dynamics, cold-pool variability, and ecosystem impacts
-  🌏 **Indian Ocean & Monsoon Dynamics**: ocean circulation, freshwater stratification, and air–sea interaction
-  🌀 **Tropical Cyclone–Ocean Response**: upper-ocean cooling, mixing, nutrient injection, and phytoplankton blooms
-  🤖 **Machine Learning for Oceanography**: gap-filling, prediction, and model–observation comparison
-  📡 **Model–Data Evaluation**: validation against In-situ, satellite observations
+  - 🌊 **Regional Ocean Modeling**: high-resolution MOM6 configurations
+  - 🌿 **Physical–Biogeochemical Modeling**: coupled MOM6-SIS2–COBALTv3
+  - 🧊 **Sea Ice–Ocean Interactions**: Bering Sea shelf dynamics, cold-pool variability, and ecosystem impacts
+  - 🌏 **Indian Ocean & Monsoon Dynamics**: ocean circulation, freshwater stratification, and air–sea interaction
+  - 🌀 **Tropical Cyclone–Ocean Response**: upper-ocean cooling, mixing, nutrient injection, and phytoplankton blooms
+  - 🤖 **Machine Learning for Oceanography**: gap-filling, prediction, and model–observation comparison
+  - 📡 **Model–Data Evaluation**: validation against In-situ, satellite observations
 
 ---
 
 ### Current Research
 
 **Northeast Pacific Ocean Modeling (MOM6-NEP10k)**
-I develop and evaluate a high-resolution regional ocean–sea ice model spanning the Northeast 
-Pacific from Baja California to the Chukchi Sea. My work focuses on the **Bering Sea**, 
-evaluating shelf circulation, summer stratification, cold-pool dynamics, and sea-ice 
-variability, with direct implications for fisheries management and ecosystem forecasting 
-in one of the world's most productive marine environments.
+  - I develop and evaluate a high-resolution regional ocean–sea ice model spanning the Northeast 
+    Pacific from Baja California to the Chukchi Sea. My work focuses on the **Bering Sea**, 
+    evaluating shelf circulation, summer stratification, cold-pool dynamics, and sea-ice 
+    variability, with direct implications for fisheries management and ecosystem forecasting 
+    in one of the world's most productive marine environments.
 
 **Physical–Biogeochemical Modeling**
-I use MOM6 coupled with the **Carbon, Ocean Biogeochemistry (COBALTv3)** 
-model to study how ocean physics controls nutrients, chlorophyll, dissolved oxygen, and 
-carbonate chemistry across the Northeast Pacific from the Bering Sea shelf to the 
-California Current Ecosystem.
+  - I use MOM6 coupled with the **Carbon, Ocean Biogeochemistry (COBALTv3)** 
+   model to study how ocean physics controls nutrients, chlorophyll, dissolved oxygen, and 
+   carbonate chemistry across the Northeast Pacific from the Bering Sea shelf to the 
+   California Current Ecosystem.
 
 **Bay of Bengal Regional Ocean Modeling**
-I am implementing a high-resolution MOM6 configuration for the Bay of Bengal to investigate 
-monsoon-driven circulation, freshwater stratification from riverine inputs, coastal upwelling, 
-and air–sea interaction processes are critical for understanding Indian Ocean climate variability 
-and its societal impacts.
+  - I am implementing a high-resolution MOM6 configuration for the Bay of Bengal to investigate 
+   monsoon-driven circulation, freshwater stratification from riverine inputs, coastal upwelling, 
+   and air–sea interaction processes are critical for understanding Indian Ocean climate variability 
+   and its societal impacts.
 
 **Tropical Cyclone–Ocean Interaction**
-My earlier research examined how tropical cyclones modify the upper ocean in the **Arabian Sea** 
-and **Bay of Bengal**, including sea surface cooling, mixed-layer deepening, nutrient upwelling, 
-and phytoplankton bloom dynamics using coupled physical–biogeochemical (ROMS-BioFennel) model.
+  - My earlier research examined how tropical cyclones modify the upper ocean in the **Arabian Sea** 
+    and **Bay of Bengal**, including sea surface cooling, mixed-layer deepening, nutrient upwelling, 
+    and phytoplankton bloom dynamics using coupled physical–biogeochemical (ROMS-BioFennel) model.
 
 ---
 
 ### Background
 
 I completed my **PhD in Oceanography** at the [Indian Institute of Technology (IIT) Delhi](https://home.iitd.ac.in/) in 2022, 
-where I studied biophysical variability in the north Indian Ocean using coupled physical–biogeochemical models, under the supervision of Prof. [Vimlesh Pant](https://web.iitd.ac.in/~vimlesh/). 
+where I studied biophysical variability in the north Indian Ocean using coupled physical–biogeochemical models, 
+under the supervision of Prof. [Vimlesh Pant](https://web.iitd.ac.in/~vimlesh/). 
 My doctoral work examined how large-scale climate modes, including the **Indian Ocean Dipole** and **El Niño** modulate primary productivity, 
 phytoplankton blooms, and upper-ocean biogeochemistry across the **Arabian Sea** and **Bay of Bengal**.
