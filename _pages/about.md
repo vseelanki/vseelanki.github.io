@@ -62,26 +62,26 @@ biogeochemistry**, **in-situ observations**, **satellite data**, and **machine l
 
 ### Current Research
 
-**Northeast Pacific Ocean Modeling (MOM6-NEP10k)**
+* **Northeast Pacific Ocean Modeling (MOM6-NEP10k)**
   - I develop and evaluate a high-resolution regional ocean–sea ice model spanning the Northeast 
     Pacific from Baja California to the Chukchi Sea. My work focuses on the **Bering Sea**, 
     evaluating shelf circulation, summer stratification, cold-pool dynamics, and sea-ice 
     variability, with direct implications for fisheries management and ecosystem forecasting 
     in one of the world's most productive marine environments.
 
-**Physical–Biogeochemical Modeling**
+* **Physical–Biogeochemical Modeling**
   - I use MOM6 coupled with the **Carbon, Ocean Biogeochemistry (COBALTv3)** 
    model to study how ocean physics controls nutrients, chlorophyll, dissolved oxygen, and 
    carbonate chemistry across the Northeast Pacific from the Bering Sea shelf to the 
    California Current Ecosystem.
 
-**Bay of Bengal Regional Ocean Modeling**
+* **Bay of Bengal Regional Ocean Modeling**
   - I am implementing a high-resolution MOM6 configuration for the Bay of Bengal to investigate 
    monsoon-driven circulation, freshwater stratification from riverine inputs, coastal upwelling, 
    and air–sea interaction processes are critical for understanding Indian Ocean climate variability 
    and its societal impacts.
 
-**Tropical Cyclone–Ocean Interaction**
+* **Tropical Cyclone–Ocean Interaction**
   - My earlier research examined how tropical cyclones modify the upper ocean in the **Arabian Sea** 
     and **Bay of Bengal**, including sea surface cooling, mixed-layer deepening, nutrient upwelling, 
     and phytoplankton bloom dynamics using coupled physical–biogeochemical (ROMS-BioFennel) model.
