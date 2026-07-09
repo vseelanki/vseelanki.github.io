@@ -52,11 +52,3 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
-
-// Custom Typography Overrides
-$font-weight-base: 500 !default;
-$font-weight-bold: 800 !default;
-
-body {
-  font-weight: 500 !important;
-}
