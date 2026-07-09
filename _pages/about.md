@@ -18,14 +18,17 @@ profile:
 
 selected_papers: true
 social: true
+
 announcements:
   enabled: false
   scrollable: false
   limit: 5
+  
 latest_posts:
   enabled: false
   scrollable: false
   limit: 3
+  
 ---
 
 I am a **regional ocean modeler** and Postdoctoral Researcher at the 
@@ -46,11 +49,13 @@ to understand how ocean circulation, sea ice, marine ecosystems, and biogeochemi
 respond to climate variability and change. I use the **Modular Ocean Model version 6 (MOM6)** 
 coupled with sea ice and biogeochemistry (COBALTv2) to build skillful regional predictions 
 that serve fisheries management, ecosystem forecasting, and coastal climate resilience.
-The oceans I study — the **Bering Sea**, the **Arabian Sea**, and the **Bay of Bengal** — 
-support the livelihoods of millions of people through fisheries, coastal communities, 
-and regional climate regulation. The Bering Sea alone accounts for nearly half of the 
-U.S. commercial fish catch, and its ecosystem is highly sensitive to sea-ice variability 
-and cold-pool dynamics — processes I directly model and evaluate.
+
+Currently, my work centers on the **Bering Sea** — one of the world's most productive 
+marine ecosystems and the source of nearly half of the U.S. commercial fish catch. 
+Its ecosystem is highly sensitive to sea-ice variability and cold-pool dynamics, 
+processes I directly model and evaluate using high-resolution MOM6 configurations. 
+Through my roles in the **EcoFOCI** and **CEFI** programs, this work directly informs 
+fisheries management and ecosystem forecasting across the Northeast Pacific.
 
 A central theme of my work is bridging the gap between **global climate models** and the 
 local-scale ocean processes that matter most — on shelves, in marginal seas, and along 
@@ -66,10 +71,10 @@ dynamic and productive marine environments.
 ### Research Interests
 
 - 🌊 **Regional Ocean Modeling** — high-resolution MOM6 configurations for shelf and marginal seas
+- 🌿 **Physical–Biogeochemical Modeling** — coupled MOM6–COBALTv2 for nutrients, chlorophyll, and oxygen
 - 🧊 **Sea Ice–Ocean Interactions** — Bering Sea shelf dynamics, cold-pool variability, and ecosystem impacts
 - 🌏 **Indian Ocean & Monsoon Dynamics** — Bay of Bengal circulation, freshwater stratification, and air–sea interaction
 - 🌀 **Tropical Cyclone–Ocean Response** — upper-ocean cooling, mixing, nutrient injection, and phytoplankton blooms
-- 🌿 **Physical–Biogeochemical Modeling** — coupled MOM6–COBALTv2 for nutrients, chlorophyll, and oxygen
 - 🤖 **Machine Learning for Oceanography** — gap-filling, prediction, and model–observation comparison
 - 📡 **Model–Data Evaluation** — validation against Argo, RAMA, satellite SST, sea-ice, and chlorophyll observations
 
@@ -96,7 +101,7 @@ and **Bay of Bengal** — including sea surface cooling, mixed-layer deepening, 
 and phytoplankton bloom dynamics — using coupled physical–biogeochemical models.
 
 **Physical–Biogeochemical Modeling**
-I use MOM6 coupled with the **Carbon, Ocean Biogeochemistry, and Lower Trophics (COBALTv2)** 
+I use MOM6 coupled with the **Carbon, Ocean Biogeochemistry, and Lower Trophics (COBALTv3)** 
 model to study how ocean physics controls nutrients, chlorophyll, dissolved oxygen, and 
 carbonate chemistry across the Northeast Pacific — from the Bering Sea shelf to the 
 California Current Ecosystem.
@@ -109,8 +114,8 @@ I completed my **PhD in Oceanography** at the
 [Indian Institute of Technology (IIT) Delhi](https://home.iitd.ac.in/) in 2022, 
 where I studied biophysical variability in the north Indian Ocean using coupled 
 physical–biogeochemical models, under the supervision of Prof. Vimlesh Pant. 
-My doctoral work examined how large-scale climate modes — including the 
-**Indian Ocean Dipole** and **El Niño** — modulate primary productivity, 
+My doctoral work examined how large-scale climate modes, including the 
+**Indian Ocean Dipole** and **El Niño** modulate primary productivity, 
 phytoplankton blooms, and upper-ocean biogeochemistry across the **Arabian Sea** 
 and **Bay of Bengal**. Prior to my PhD, I was a Junior Research Fellow at the 
 [Indian Institute of Science (IISc)](https://www.iisc.ac.in/), Bangalore, 
