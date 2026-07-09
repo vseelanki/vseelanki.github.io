@@ -54,9 +54,9 @@ $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
 
 body {
-  font-weight: 400; 
+  font-weight: 400 !important; /* Forces normal text weight */
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 700;
+  font-weight: 700 !important; /* Forces heading boldness */
 }
