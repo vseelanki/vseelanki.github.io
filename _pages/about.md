@@ -32,7 +32,7 @@ latest_posts:
   
 ---
 
-I am a **ocean modeler** and Postdoctoral Researcher at the [Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES)](https://cicoes.uw.edu/), University of Washington, and the [EcoFOCI Program](https://www.ecofoci.noaa.gov/), 
+I am a **Oceanographer** and Postdoctoral Researcher at the [Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES)](https://cicoes.uw.edu/), University of Washington, and the [EcoFOCI Program](https://www.ecofoci.noaa.gov/), 
 [NOAA Pacific Marine Environmental Laboratory (PMEL)](https://www.pmel.noaa.gov/), Seattle, WA. I work with Dr. [Albert J. Hermann](https://www.pmel.noaa.gov/about-us/people/dr-albert-j-hermann), Dr. [Wei Cheng](https://www.pmel.noaa.gov/about-us/people/dr-wei-cheng), and Dr. [Phyllis Stabeno](https://www.pmel.noaa.gov/about-us/people/dr-phyllis-stabeno).
 
 I am a core member of the [EcoFOCI Program](https://www.ecofoci.noaa.gov/) (Ecosystem & Fisheries-Oceanography Coordinated Investigations) and the [CEFI Program](https://www.fisheries.noaa.gov/national/climate/climate-ecosystems-and-fisheries-initiative) (Climate, Ecosystems, and Fisheries Initiative) at NOAA, two major national programs advancing the use of regional ocean models for fisheries management, ecosystem forecasting, and climate-ready fisheries science across the United States.
@@ -50,7 +50,7 @@ biogeochemistry**, **in-situ observations**, **satellite data**, and **machine l
 
 ### Research Interests
 
-  - 🌊 **Regional Ocean Modeling**: high-resolution MOM6 configurations
+  - 🌊 ***Regional Ocean Modeling***: high-resolution MOM6 configurations
   - 🌿 **Physical–Biogeochemical Modeling**: coupled MOM6-SIS2–COBALTv3
   - 🧊 **Sea Ice–Ocean Interactions**: Bering Sea shelf dynamics, cold-pool variability, and ecosystem impacts
   - 🌏 **Indian Ocean & Monsoon Dynamics**: ocean circulation, freshwater stratification, and air–sea interaction
@@ -64,10 +64,9 @@ biogeochemistry**, **in-situ observations**, **satellite data**, and **machine l
 
 * **Northeast Pacific Ocean Modeling (MOM6-NEP10k)**
   - I develop and evaluate a high-resolution regional ocean–sea ice model spanning the Northeast 
-    Pacific from Baja California to the Chukchi Sea. My work focuses on the **Bering Sea**, 
-    evaluating shelf circulation, summer stratification, cold-pool dynamics, and sea-ice 
-    variability, with direct implications for fisheries management and ecosystem forecasting 
-    in one of the world's most productive marine environments.
+    Pacific from Baja California to the Chukchi Sea.
+  - My work focuses on the **Bering Sea**, evaluating shelf circulation, summer stratification, cold-pool dynamics, and sea-ice 
+    variability, with direct implications for fisheries management and ecosystem forecasting in one of the world's most productive marine environments.
 
 * **Physical–Biogeochemical Modeling**
   - I use MOM6 coupled with the **Carbon, Ocean Biogeochemistry (COBALTv3)** 
@@ -90,7 +89,7 @@ biogeochemistry**, **in-situ observations**, **satellite data**, and **machine l
 
 ### Background
 
-I completed my **PhD in Oceanography** at the [Indian Institute of Technology (IIT) Delhi](https://home.iitd.ac.in/) in 2022, 
+I completed my **PhD in Oceanography** at the **[Indian Institute of Technology (IIT) Delhi](https://home.iitd.ac.in/)** in 2022, 
 where I studied biophysical variability in the north Indian Ocean using coupled physical–biogeochemical models, 
 under the supervision of Prof. [Vimlesh Pant](https://web.iitd.ac.in/~vimlesh/). 
 My doctoral work examined how large-scale climate modes, including the **Indian Ocean Dipole** and **El Niño** modulate primary productivity, 
