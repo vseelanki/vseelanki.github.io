@@ -1,7 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /old/
+nav: false
 subtitle: >
   Postdoctoral Researcher at 
   <a href='https://cicoes.uw.edu/' target='_blank'>CICOES, University of Washington</a> / 
