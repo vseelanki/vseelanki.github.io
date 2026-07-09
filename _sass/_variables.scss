@@ -52,3 +52,12 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+/* Custom Fine-Tuned Typography */
+body {
+  font-weight: 450 !important; /* Slightly thicker than default (400), but not bold */
+}
+
+strong, b, .font-bold, h1, h2, h3, h4, h5, h6 {
+  font-weight: 750 !important; /* Noticeably bold and heavy, cleanly separated from body text */
+}
