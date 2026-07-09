@@ -50,7 +50,7 @@ biogeochemistry**, **in-situ observations**, **satellite data**, and **machine l
 
 ### Research Interests
 
-  - 🌊 ***Regional Ocean Modeling***: high-resolution MOM6 configurations
+  - 🌊 **Regional Ocean Modeling**: high-resolution MOM6 configurations
   - 🌿 **Physical–Biogeochemical Modeling**: coupled MOM6-SIS2–COBALTv3
   - 🧊 **Sea Ice–Ocean Interactions**: Bering Sea shelf dynamics, cold-pool variability, and ecosystem impacts
   - 🌏 **Indian Ocean & Monsoon Dynamics**: ocean circulation, freshwater stratification, and air–sea interaction
