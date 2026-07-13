@@ -91,14 +91,14 @@ cv:
     Research Expeditions:
       - title: MISO-BoB Cruise
         authors:
-          - "🚢 R/V Thomas G Thompson"
+          - "R/V Thomas G Thompson"
         date: 2018.06
-        awarder: 🚢 R/V Thomas G Thompson
+        awarder: R/V Thomas G Thompson
         summary: 30 days of moorings & ADCP deployment, CTD profiling, and water sampling.
 
       - title: Spring Mooring Cruise
         authors:
-          - "🚢 NOAA R/V Oscar Dyson"
+          - "NOAA R/V Oscar Dyson"
         date: 2024.04
-        awarder: 🚢 NOAA R/V Oscar Dyson
+        awarder: NOAA R/V Oscar Dyson
         summary: 15 days of  deployment, CTD profiling, and water sampling.
