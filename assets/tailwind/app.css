@@ -1,7 +1,0 @@
-@import "tailwindcss";
-
-@layer base {
-  strong, b {
-    font-weight: 700 !important;
-  }
-}
