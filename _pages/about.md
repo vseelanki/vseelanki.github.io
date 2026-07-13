@@ -31,6 +31,9 @@ latest_posts:
   limit: 3
   
 ---
+<style>
+strong, b { font-weight: 900 !important; }
+</style>
 
 I am a **Oceanographer** and Postdoctoral Researcher at the [Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES)](https://cicoes.uw.edu/), University of Washington, and the [EcoFOCI Program](https://www.ecofoci.noaa.gov/), 
 [NOAA Pacific Marine Environmental Laboratory (PMEL)](https://www.pmel.noaa.gov/), Seattle, WA. I work with Dr. [Albert J. Hermann](https://www.pmel.noaa.gov/about-us/people/dr-albert-j-hermann), Dr. [Wei Cheng](https://www.pmel.noaa.gov/about-us/people/dr-wei-cheng), and Dr. [Phyllis Stabeno](https://www.pmel.noaa.gov/about-us/people/dr-phyllis-stabeno).
