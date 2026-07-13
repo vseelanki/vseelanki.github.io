@@ -88,16 +88,6 @@ cv:
         date: 2015
         summary: Awarded First Rank in M. Tech, Andhra University.
 
-    Certificates:
-      - name: MISO-BoB Cruise
-        date: 2018-06
-        issuer: R/V Thomas G. Thompson
-        summary: 30 days of moorings & ADCP deployment, CTD profiling, and water sampling in the Bay of Bengal.
-
-      - name: Spring Mooring Cruise
-        date: 2024-04
-        issuer: NOAA R/V Oscar Dyson
-        summary: 15 days of mooring deployment, CTD profiling, and water sampling in the Bering Sea.
 
     Research Expeditions:
       - title: MISO-BoB Cruise
