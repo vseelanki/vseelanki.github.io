@@ -12,7 +12,7 @@ profile:
   image: Vivek_image.jpg
   image_circular: false
   more_info: >
-    <p>University of Wasgington</p>
+    <p>University of Washington</p>
     <p>NOAA PMEL</p>
     <p>7600 Sand Point Way NE</p>
     <p>Seattle, WA 98115, USA</p>
