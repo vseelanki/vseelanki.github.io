@@ -76,7 +76,7 @@ cv:
         awarder: Indian Institute of Technology Delhi (IIT Delhi)
         summary: Awarded to 10% of the graduates for the year 2023-2024.
 
-      - title: Inspire Fellowship 
+      - title: INSPIRE Fellowship 
         authors:
           - "Dept. of Science & Technology (DST)"
         date: 2016
@@ -87,7 +87,17 @@ cv:
         awarder: Andhra University
         date: 2015
         summary: Awarded First Rank in M. Tech, Andhra University.
-        
+
+    Research Expeditions:
+      - title: MISO-BoB Cruise
+        date: 2018.06
+        awarder: 🚢 R/V Thomas G Thompson
+        summary: 30 days of moorings & ADCP deployment, CTD profiling, and water sampling.
+
+      - title: Spring Mooring Cruise
+        date: 2024.04
+        awarder: 🚢 NOAA R/V Oscar Dyson
+        summary: 15 days of  deployment, CTD profiling, and water sampling.
 
 
 
