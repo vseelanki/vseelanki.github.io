@@ -109,11 +109,7 @@
 } /* Name.Function */
 .highlight .nl {
   color: #d0d0d0;
-} /* Name.Label */
-.highlight .nn {
-  color: #447fcf;
-  text-decoration: underline;
-} /* Name.Namespace */
+} /* Name.Label */ /* Name.Namespace */
 .highlight .nx {
   color: #d0d0d0;
 } /* Name.Other */
