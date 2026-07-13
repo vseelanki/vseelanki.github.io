@@ -32,7 +32,7 @@ latest_posts:
   
 ---
 <style>
-strong, b { font-weight: 400 !important; }
+strong, b { font-weight: 600 !important; }
 </style>
 
 I am a **Oceanographer** and Postdoctoral Researcher at the [Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES)](https://cicoes.uw.edu/), University of Washington, and the [EcoFOCI Program](https://www.ecofoci.noaa.gov/), 
